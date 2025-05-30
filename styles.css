@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+body {
+    padding: 20px;
+}
+tr:hover {
+    background-color: #f9f9f9;
+}
+
